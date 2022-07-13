@@ -1,0 +1,180 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 300,
+      "details": "Good Apple",
+      "pic": "1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mango",
+      "price": 300,
+      "details": "Good Mango",
+      "pic": "2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banana Red",
+      "price": 300,
+      "details": "Good Banana",
+      "pic": "3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Orange",
+      "price": 100,
+      "details": "Good Orange",
+      "pic": "4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sweet Potato",
+      "price": 30,
+      "details": "Sweet Potato",
+      "pic": "5.jpg"
+    }
+  ],
+  "order": [
+    {
+      "name": "Ravi",
+      "email": "ravi@gmail.com",
+      "mobile": "9993939933",
+      "address": "Meyyanoor, Salem",
+      "myproduct": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 300,
+          "details": "Good Mango",
+          "pic": "2.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Sweet Potato",
+          "price": 30,
+          "details": "Sweet Potato",
+          "pic": "5.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Banana Red",
+          "price": 300,
+          "details": "Good Banana",
+          "pic": "3.jpg"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "krish",
+      "email": "krish@gamail.com",
+      "mobile": "8838388383",
+      "address": "Maangadu, Salem",
+      "myproduct": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": 300,
+          "details": "Good Apple",
+          "pic": "1.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Orange",
+          "price": 100,
+          "details": "Good Orange",
+          "pic": "4.jpg"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Ranveer",
+      "email": "ranveer@gmail.com",
+      "mobile": "2222229999",
+      "address": "Salem KR Thoppur",
+      "myproduct": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 300,
+          "details": "Good Mango",
+          "pic": "2.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Sweet Potato",
+          "price": 30,
+          "details": "Sweet Potato",
+          "pic": "5.jpg"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Rehan",
+      "email": "rehan@gmail.com",
+      "mobile": "9942326626",
+      "address": "Salem, Mangadu",
+      "myproduct": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 300,
+          "details": "Good Mango",
+          "pic": "2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Banana Red",
+          "price": 300,
+          "details": "Good Banana",
+          "pic": "3.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Orange",
+          "price": 100,
+          "details": "Good Orange",
+          "pic": "4.jpg"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Ranjith",
+      "email": "ranjith@gmail.com",
+      "mobile": "2233300949",
+      "address": "#140, Ayothapatnam, Salem-22333",
+      "myproduct": [
+        {
+          "id": 5,
+          "name": "Sweet Potato",
+          "price": 30,
+          "details": "Sweet Potato",
+          "pic": "5.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Orange",
+          "price": 100,
+          "details": "Good Orange",
+          "pic": "4.jpg"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "cart": [],
+  "vendor": [
+    {
+      "name": "Manish",
+      "email": "Manish111@gmail.com",
+      "mobile": "9080514277",
+      "password": "123",
+      "id": 1
+    }
+  ]
+}
